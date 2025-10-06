@@ -7,7 +7,7 @@ Test your knowledge, race against time ⏰, and challenge yourself with exciting
 
 ![Made with React Native](https://img.shields.io/badge/Made%20with-React%20Native-blue?style=for-the-badge&logo=react)
 ![Platform](https://img.shields.io/badge/Platform-Android%20|%20iOS-green?style=for-the-badge&logo=android)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 
 ---
